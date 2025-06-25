@@ -3,4 +3,4 @@
 <p>Hello, Im Faisal ,a Full Stack Developer specializing in the JavaScript & PHP languages. With hands-on experience in JavaScript, React, Node.js, Express, MongoDB, PHP, WordPress, and RESTful APIs. I develop clean, reliable, and scalable apps that bring ideas to life.</p>
 
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+
