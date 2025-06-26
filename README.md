@@ -4,10 +4,8 @@
 
 ## 💻 Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,4 +37,6 @@ Hello! I'm **Faisal**, a Full Stack Developer specializing in **JavaScript** and
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalchowdhury&theme=dark&hide_border=true)
 
-![Faisal Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark)
+![Faisal Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
