@@ -17,12 +17,10 @@
 
 <br/>
 
-## 👨‍💻 About Me
-
 Hello! I'm **Faisal**, a Full Stack Developer specializing in **JavaScript** and **PHP**. I bring ideas to life by developing clean, scalable, and reliable web applications.
 
-- 🚀 Currently exploring the **MERN stack**
-- 🎯 Actively looking for **fresher roles** in MERN stack development
+-  Currently exploring the MERN stack
+-  Actively looking for **fresher roles** in MERN stack development
 
 <br/>
 
