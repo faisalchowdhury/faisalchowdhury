@@ -1,8 +1,11 @@
 ![banner](https://github.com/faisalchowdhury/faisalchowdhury/blob/main/Profile%20banner.png)
 
-</br>
-## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+## 💻 Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,19 +17,26 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## About
-<p>Hello, Im Faisal ,a Full Stack Developer specializing in the JavaScript & PHP languages. With hands-on experience in JavaScript, React, Node.js, Express, MongoDB, PHP, WordPress, and RESTful APIs. I develop clean, reliable, and scalable apps that bring ideas to life.</p>
+<br/>
 
-- Currently I am exploring MERN stack
-- Looking for fresher roles in MERN stack
+## 👨‍💻 About Me
 
-## Social Links
+Hello! I'm **Faisal**, a Full Stack Developer specializing in **JavaScript** and **PHP**. I bring ideas to life by developing clean, scalable, and reliable web applications.
+
+- 🚀 Currently exploring the **MERN stack**
+- 🎯 Actively looking for **fresher roles** in MERN stack development
+
+<br/>
+
+## 🌐 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/faisal-chowdhury-730a051a6/)
 - [GitHub](https://github.com/faisalchowdhury)
 
+<br/>
 
+## 📈 GitHub Stats & Streak
 
-## Contributions and Streaks
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalchowdhury&theme=dark&hide_border=true)
 
-![Faisal Chowdhury's GitHub stats](https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark)
+![Faisal Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark)
