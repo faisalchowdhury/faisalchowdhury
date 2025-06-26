@@ -33,8 +33,16 @@ Hello! I'm **Faisal**, a Full Stack Developer specializing in **JavaScript** and
 
 ## 📈 GitHub Stats & Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisalchowdhury&theme=dark&hide_border=true)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalchowdhury&theme=dark&hide_border=true" height="200" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark" height="200" />
+    </td>
+  </tr>
+</table>
 
-![Faisal Chowdhury's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisalchowdhury&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
