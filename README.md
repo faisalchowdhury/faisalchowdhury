@@ -43,7 +43,3 @@ Hello! I'm **Faisal**, a Full Stack Developer specializing in **JavaScript** and
     </td>
   </tr>
 </table>
-## Top Language
-<div width="100%">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalchowdhury&layout=compact&&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-</div>
